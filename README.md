@@ -10,7 +10,7 @@ Challenge yourself with different play modes...
 If you ever get stuck, use the hints provided!
 
 How To Run:
-1. Download and unzip the submission file
+1. Download and unzip sudoku.zip
 2. Run main.py
 
 External Libraries Required:
