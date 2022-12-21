@@ -1,6 +1,8 @@
 # Sudoku
 Sudoku Term Project for CMU 15-112 (Fundamentals of Programming)
 
+Watch a trailer for the app at: https://youtu.be/Jw8aE9QQmE4
+
 A minimalist reiteration of the cassic Sudoku game. 
 
 Choose from different levels of difficulty.
